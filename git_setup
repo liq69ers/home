@@ -1,7 +1,7 @@
 Global setup:
 
  Set up git
-  git config --global user.name "Your Name"
+  git config --global user.name "liq69ers"
   git config --global user.email liq69ers@hotmail.com
       
 
